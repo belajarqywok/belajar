@@ -1,2 +1,2 @@
-# belajar NodeJs
-Belajar dri awal ampe bener2 bisa
+# belajar Masak
+Belajar ampe bener2 bisa
